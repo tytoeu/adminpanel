@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/adminpanel/static/css/main.92e5f645.css",
+    "main.js": "/adminpanel/static/js/main.e922f015.js",
+    "static/media/person_two.jpg": "/adminpanel/static/media/person_two.348b2fcc3bf8c629eea7.jpg",
+    "static/media/person_four.jpg": "/adminpanel/static/media/person_four.dcc4b73631cb58bf3f0e.jpg",
+    "static/media/person_three.jpg": "/adminpanel/static/media/person_three.de2b26eaa2ee890243cb.jpg",
+    "static/media/person_one.jpg": "/adminpanel/static/media/person_one.cff9fc4c871ef770de92.jpg",
+    "static/media/home.svg": "/adminpanel/static/media/home.f9303d1a1eeb61e6d1f38f31dd625bf5.svg",
+    "static/media/alert.svg": "/adminpanel/static/media/alert.ee17e522263241b97d882b0e00c6adba.svg",
+    "static/media/budget.svg": "/adminpanel/static/media/budget.505dddf5c7243f6d0e91efb7727cb438.svg",
+    "static/media/wealth.svg": "/adminpanel/static/media/wealth.243e296d34e4b342c5886e547e442388.svg",
+    "static/media/gears.svg": "/adminpanel/static/media/gears.a6648f06885d01d0723fe84f2f9fc15a.svg",
+    "static/media/bills.svg": "/adminpanel/static/media/bills.4e4e4f3908cd5074cd5508a4cbf251f3.svg",
+    "static/media/report.svg": "/adminpanel/static/media/report.8a7cdf496382e0f771a29d2f9ac1b647.svg",
+    "static/media/card.svg": "/adminpanel/static/media/card.82fefee0b647631dc4bedbe90f060697.svg",
+    "static/media/check.svg": "/adminpanel/static/media/check.47640311089135a3c5307aa2e3cdedb2.svg",
+    "static/media/search.svg": "/adminpanel/static/media/search.b9edbe38d2a2abdb22992a4bae495846.svg",
+    "static/media/wallet.svg": "/adminpanel/static/media/wallet.be73d135e4632c6df5ccd4b260a2e15c.svg",
+    "static/media/bell.svg": "/adminpanel/static/media/bell.1362b91a4e9f3af2e1bf55a5b13d3b74.svg",
+    "static/media/user.svg": "/adminpanel/static/media/user.003b2f49d15b27c3cce9d0ecdb55ded1.svg",
+    "index.html": "/adminpanel/index.html",
+    "static/media/plane.svg": "/adminpanel/static/media/plane.42b7328c8f0e962e615f6ec83835d211.svg",
+    "static/media/empty_check.svg": "/adminpanel/static/media/empty_check.c56bc89b4c93779d47300fa3506fbe6d.svg",
+    "static/media/plus.svg": "/adminpanel/static/media/plus.d596a11e5eb4d14415112c474078cb31.svg",
+    "static/media/menu.svg": "/adminpanel/static/media/menu.671405f9050c951365cbfaf9273aadc7.svg"
+  },
+  "entrypoints": [
+    "static/css/main.92e5f645.css",
+    "static/js/main.e922f015.js"
+  ]
+}
